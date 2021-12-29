@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stasiabryant
 - 👀 I’m interested in organic/regenerative farming automation
-- 🌱 I’m currently learning linux command line and java script
+- 🌱 I’m currently learning linux command line and java script, & auto mechanics
 - 💞️ I’m looking to collaborate on health/wellness/farming projects
 - 📫 How to reach me: twitter @stasiabryant...
 
